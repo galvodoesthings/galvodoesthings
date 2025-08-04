@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @galvodoesthings
 - 👀 I’m interested in IT and Science
 - 🌱 I’m currently learning: CPU overclocking/Blender/Networking
-- 📫 How to reach me? Noy yet.
+- 📫 How to reach me? Not yet.
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: I own a component from every major chip manufacturer
 
